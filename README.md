@@ -1,4 +1,4 @@
-# my Ride - Taxi Booking Web App
+# Prosenjit Ride - Taxi Booking Web App
 
 ## Description
 Eber Ride is a Taxi Booking Web App built using the MEAN stack technology (MongoDB, Express.js, Angular, and Node.js). This project aims to provide a convenient and efficient solution for users to book taxis online and for drivers to manage their bookings effectively.
